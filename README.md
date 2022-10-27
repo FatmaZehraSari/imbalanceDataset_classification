@@ -1,2 +1,2 @@
 # imbalancedDataset_classification
-Cerebral Stroke Prediction with healthdata.gov dataset
+Cerebral stroke prediction with healthdata.gov dataset
